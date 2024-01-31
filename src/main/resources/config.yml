@@ -1,0 +1,12 @@
+# 需要禁用的命令列表
+disabledCommands:
+  - server
+  - find
+
+#需要作用的服务器名,服务器名是在BC配置文件中的名字。
+#如果需要禁用所有服务器，可以直接在BC的配置文件中的disabled_commands指定
+#https://www.spigotmc.org/wiki/bungeecord-configuration-guide/
+servers:
+  - main
+  - lobby
+  - anotherServer

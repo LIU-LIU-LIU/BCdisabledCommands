@@ -1,0 +1,5 @@
+name: BCdisabledCommands
+version: '${project.version}'
+main: cc.ahaly.mc.bcdisabledcommands.BCdisabledCommands
+description: 此插件可以在指定子服上禁用BC命令。
+author: AHA
